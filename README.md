@@ -5,7 +5,9 @@ This repository contains data analysis projects completed to develop tool-buildi
 Billionares: https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database?ResearchID=2917
 
 Real World Emissions: https://climate-energy.eea.europa.eu/topics/transport/real-world-emissions/data
+
 Maven Challenge CRM Sales Analysis: https://mavenanalytics.io/challenges/maven-sales-challenge/31?utm_source=linkedin&utm_campaign=mavensaleschallenge_li_maven
+
 FP20 Data Challenge HR Data Analysis: https://www.fp20analytics.com/challenges
 ### Tools
 Excel: Data cleaning
