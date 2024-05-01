@@ -1,6 +1,6 @@
 # Project2024
 ### Project Overview
-This repository contains data analysis projects completed to develop tool-building and problem-solving skills. The projects provide insights to support stakeholders.
+These are projects carried out to practice tool-building skills and problem-solving thinking, thereby providing useful insights to support stakeholders.
 ### Data Source
 Billionares: https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database?ResearchID=2917
 
