@@ -1,18 +1,12 @@
-# Project2024
+# The Billionaire Characteristics 
 ### Project Overview
-These are projects carried out to practice tool-building skills and problem-solving thinking, thereby providing useful insights to support stakeholders.
+This working paper introduces a fresh dataset concerning the origins of billionaire wealth and utilizes it to outline shifts in extreme wealth across the United States, Europe, and other developed nations. The dataset categorizes wealth as either self-made or inherited, pinpointing the company and industry from which it arises. Among self-made billionaires, individuals are further classified as company founders, executives, politically-connected, or in finance. Analysis of the data reveals a more dynamic landscape of extreme wealth in the United States compared to Europe. In Europe, just over half of billionaires inherited their wealth, whereas in the United States, one-third did so.
+
+The median age of a European billionaire's company is approximately 20 years older than that of an American billionaire. Traditional sectors predominantly drive the increase in wealth in Europe, while the financial and technology-related sectors largely contribute to the surge in US wealth. There are indications that economic rents are higher in the United States than in Europe, as evidenced by not only the rapid expansion in the number of US billionaires but also the increasing average wealth among them over time, particularly in areas tied to resources, nontradables, or finance.
 ### Data Source
 Billionares: https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database?ResearchID=2917
-
-Real World Emissions: https://climate-energy.eea.europa.eu/topics/transport/real-world-emissions/data
-
-Maven Challenge CRM Sales Analysis: https://mavenanalytics.io/challenges/maven-sales-challenge/31?utm_source=linkedin&utm_campaign=mavensaleschallenge_li_maven
-
-FP20 Data Challenge HR Data Analysis: https://www.fp20analytics.com/challenges
 ### Tools
 Excel: Data cleaning
-Python: Data wrangling
-SQL Server: Data analysis
 Power BI: Visualization
 Microsoft Office: Report creation
 ### Tasks
