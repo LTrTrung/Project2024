@@ -6,9 +6,9 @@ The median age of a European billionaire's company is approximately 20 years old
 ### Data Source
 Billionares: https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database?ResearchID=2917
 ### Tools
-Excel: Data cleaning
-Power BI: Visualization
-Microsoft Office: Report creation
+- Excel: Data cleaning
+- Power BI: Visualization
+- Microsoft Office: Report creation
 ### Tasks
 Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
